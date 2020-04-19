@@ -1,6 +1,6 @@
 # Netflix Rich Presence
 ### Show what movie/show you're watching and let others see it through Discord Rich Presence
-### Notice that this is still very buggy, and will have issues.
+### ⚠️Notice that this is still very buggy, and will have issues.⚠️
 ![example](https://github.com/RustyBalboadev/Netflix-Rich-Presence/blob/master/example.png)
 1. Go to chrome://extensions
 2. Turn on Developer Mode
