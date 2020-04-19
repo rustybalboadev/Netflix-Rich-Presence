@@ -1,5 +1,5 @@
 <p align="center">
-  <h1>Netflix Rich Presence</p>
+  <h1>Netflix Rich Presence</h1>
 </p>
 # Show what movie/show you're watching and let others see it through Discord Rich Presence
 # Notice that this is still very buggy, and will have issues.
