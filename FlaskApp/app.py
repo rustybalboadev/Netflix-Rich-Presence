@@ -15,7 +15,6 @@ try:
     @app.route('/send', methods=["GET", "POST"])
     def message():
         content = request.json
-        print(content)
         if content["done"]:
             p.clear()
             return ""
