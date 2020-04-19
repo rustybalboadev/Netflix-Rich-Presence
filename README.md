@@ -1,4 +1,6 @@
-# Netflix-Rich-Presence
+<p align="center">
+  <h1>Netflix Rich Presence</p>
+</p>
 # Show what movie/show you're watching and let others see it through Discord Rich Presence
 # Notice that this is still very buggy, and will have issues.
 ![example](https://github.com/RustyBalboadev/Netflix-Rich-Presence/blob/master/example.png)
