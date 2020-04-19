@@ -1,4 +1,4 @@
-<div style='text-align:center'>
+<center>
   # Netflix-Rich-Presence
   Show what movie/show you're watching and let others see it through Discord Rich Presence
   ![example](https://github.com/RustyBalboadev/Netflix-Rich-Presence/blob/master/example.png)
@@ -12,4 +12,4 @@
   5. ``pip install -r requirements.txt``
   6. ``python run.py``
   7. Enjoy 🙂
-</div>
+</center>
