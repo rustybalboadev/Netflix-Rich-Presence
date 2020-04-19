@@ -1,6 +1,6 @@
 # Netflix-Rich-Presence
 Show what movie/show you're watching and let others see it through Discord Rich Presence
-1. Go to [Chrome Extension](chrome://extensions)
+1. Go to chrome://extensions
 2. turn on Developer Mode
 3. Load Unpacked and choose NetflixRP Folder
 4. cd into FlaskApp
