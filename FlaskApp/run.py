@@ -1,3 +1,3 @@
 import os
-os.system("set FLASK_APP=server.py")
+os.system("set FLASK_APP=app.py")
 os.system("flask run")
