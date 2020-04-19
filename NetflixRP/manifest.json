@@ -1,0 +1,13 @@
+{
+    "name": "Netflix Rich Presence",
+    "version": "1.0",
+    "description": "Track what movie/show you're watching and show it on Discord!",
+    "content_scripts": [
+        {
+            "matches": ["<all_urls>"],
+            "js": ["content.js"],
+            "run_at":"document_end"
+        }
+    ],
+    "manifest_version": 2
+}
