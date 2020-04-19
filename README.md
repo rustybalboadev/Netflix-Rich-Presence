@@ -1,5 +1,5 @@
 <center>
-  # Netflix-Rich-Presence
+  Netflix-Rich-Presence
   Show what movie/show you're watching and let others see it through Discord Rich Presence
   ![example](https://github.com/RustyBalboadev/Netflix-Rich-Presence/blob/master/example.png)
   1. Go to chrome://extensions
